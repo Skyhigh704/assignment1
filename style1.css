@@ -92,7 +92,7 @@
         }
         
         .sec3bgimg {
-            background-image: url(/images/shapes/shape-1.png);
+            background-image: url(images/shapes/shape-1.png);
             background-repeat: no-repeat;
             background-size: 150px;
             background-position: 380px 200px;
@@ -124,7 +124,7 @@
         .img-box {
             width: 50%;
             height: 100%;
-            background-image: url(/images/shapes/shape-2.png);
+            background-image: url(images/shapes/shape-2.png);
             background-repeat: no-repeat;
             background-position: top left;
             background-size: 150px;
